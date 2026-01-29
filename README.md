@@ -254,9 +254,23 @@ User → Team Lead Agent → K8s Agent (diagnose)
 
 ## 📤 Submission Instructions
 
+### ⚠️ IMPORTANT: Repository Privacy
+
+**Your repository MUST be set to PRIVATE** to prevent academic integrity issues.
+
+1. When you fork/create your repo, set it to **Private**
+2. **Add the instructor as a collaborator:**
+   - Go to your repo → Settings → Collaborators → Add people
+   - Add: **`sebbycorp`**
+   - This allows the instructor to access your private repo for grading
+
+> ⚠️ **Warning:** Public repositories will receive a **10-point deduction**. We take academic integrity seriously.
+
+---
+
 ### Method 1: GitHub Classroom (Recommended)
 
-1. Ensure all your work is committed to your forked repository
+1. Ensure all your work is committed to your **private** repository
 2. Your repository should contain:
    ```
    sheridan-kagent-repo/
